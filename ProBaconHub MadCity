@@ -1,0 +1,2 @@
+getgenv().ProBaconHubMadCityVersion = "v0"
+getgenv().ProBaconHubMadCityAvalable = true
