@@ -1,0 +1,4 @@
+getgenv().ProBaconHubMadCityVersion = "Beta Version: 1.0"
+getgenv().ProBaconHubMadCityAvalable = true
+getgenv().ProBaconHubMadAutoRobV2Version = "TestingVersion: 1.4"
+getgenv().ProBaconHubMadAutoRobV2Avalable = true
