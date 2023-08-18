@@ -3,6 +3,6 @@ getgenv().ProBaconHubMadCityAvalable = true
 getgenv().ProBaconHubMadAutoRobV2Version = "TestingVersion: 1.6"
 getgenv().ProBaconHubMadAutoRobV2Avalable = true
 getgenv().ProBaconHubMadAutoClubVersion = "TestingVersion: 1.2"
-getgenv().ProBaconHubMadAutoClubAvalable = true
+getgenv().ProBaconHubMadAutoClubAvalable = false
 getgenv().ProBaconHubMadAutoHeistVersion = "TestingVersion: 1.6"
 getgenv().ProBaconHubMadAutoHeistAvalable = true
